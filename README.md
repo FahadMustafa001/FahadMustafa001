@@ -23,29 +23,40 @@ I am a Computer Science student at COMSATS University Islamabad, Sahiwal Campus,
 
 ## 🛠️ Tech Stack & Ecosystem
 
-### 💻 Languages & Core Engines
-<p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-</p>
-
-### 🚀 Frameworks & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/shopify-%2396BF48.svg?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
-</p>
-
-### 📊 Databases & Infrastructure Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="25%"><b>💻 Languages</b></td>
+    <td align="center" width="25%"><b>🚀 Frameworks</b></td>
+    <td align="center" width="25%"><b>📊 Data & Infra</b></td>
+    <td align="center" width="25%"><b>🧠 Architecture</b></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      • <b>Java</b> (Advanced OOP)<br>
+      • <b>C++</b> (High-Performance)<br>
+      • <b>Python</b> (AI Stack)<br>
+      • <b>Dart</b> (Mobile Native)
+    </td>
+    <td valign="top">
+      • <b>Flutter</b> Framework<br>
+      • <b>Flask</b> (REST APIs)<br>
+      • <b>WordPress</b> (CMS)<br>
+      • <b>Shopify</b> Enterprise
+    </td>
+    <td valign="top">
+      • <b>Oracle Database</b><br>
+      • <b>JDBC API</b> Layers<br>
+      • <b>SQLite</b> Engine<br>
+      • <b>Docker</b> & Containers
+    </td>
+    <td valign="top">
+      • Parallel <b>RAG</b> Pipelines<br>
+      • Multi-Agent Systems<br>
+      • <b>Zero-Trust</b> Paradigms<br>
+      • <b>Dijkstra's</b> Routing
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -82,6 +93,15 @@ I am a Computer Science student at COMSATS University Islamabad, Sahiwal Campus,
   </tr>
 </table>
 
+---
+
+## 🏆 Open Source Accomplishments & Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FahadMustafa001&theme=tokyonight&no-bg=true&margin-w=15&column=5" alt="Fahad's GitHub Trophies" />
+</p>
+
+---
 
 ## 📊 Automated Coding Metrics & Language Split
 
@@ -98,6 +118,7 @@ I am a Computer Science student at COMSATS University Islamabad, Sahiwal Campus,
 
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-science.svg" height="25px">
+  <img src="https://forthebadge.com/images/badges/automated-75percent-of-the-time.svg" height="25px">
   <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" height="25px">
 </p>
 
