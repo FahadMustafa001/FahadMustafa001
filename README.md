@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/muhammad-fahad-mustafa-77934537b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:mustafafahhad29@gmail.com">
@@ -17,7 +17,7 @@
 </p>
 
 ### 💻 System Engineering & Applied AI
-I am a Computer Science engineering student at COMSATS University Islamabad, Sahiwal Campus, maintaining an exceptional academic standing with a **3.84 CGPA**. I specialize in architecting fault-tolerant backend infrastructures, engineering multi-agent production AI logic, and modeling highly secure, micro-segmented corporate network layers.
+I am a Computer Science student at COMSATS University Islamabad, Sahiwal Campus, executing advanced software workflows with an active academic standing of **3.84 CGPA**. I specialize in engineering high-reliability backend infrastructures, implementing automated multi-agent AI platforms, and configuring secure corporate Zero Trust architectures.
 
 ---
 
@@ -27,33 +27,33 @@ I am a Computer Science engineering student at COMSATS University Islamabad, Sah
   <tr>
     <td align="center" width="25%"><b>💻 Languages</b></td>
     <td align="center" width="25%"><b>🚀 Frameworks</b></td>
-    <td align="center" width="25%"><b>📊 Data & Cloud</b></td>
+    <td align="center" width="25%"><b>📊 Data & Infrastructure</b></td>
     <td align="center" width="25%"><b>🧠 Architecture</b></td>
   </tr>
   <tr>
     <td valign="top">
       • <b>Java</b> (Advanced OOP)<br>
-      • <b>C++</b> (High-Performance)[cite: 1]<br>
-      • <b>Python</b> (AI Ecosystem)[cite: 1]<br>
-      • <b>Dart</b> (Flutter Native)[cite: 1]
+      • <b>C++</b> (High-Performance)<br>
+      • <b>Python</b> (Automation Stack)[cite: 1]<br>
+      • <b>Dart</b> (Mobile Architecture)[cite: 1]
     </td>
     <td valign="top">
       • <b>Flutter</b> Framework[cite: 1]<br>
-      • <b>Flask</b> (Micro-services)<br>
+      • <b>Flask</b> (REST Microservices)<br>
       • <b>WordPress</b> (Core CMS)[cite: 1]<br>
-      • <b>Shopify</b> Enterprise[cite: 1]
+      • <b>Shopify</b> (E-Commerce Dev)[cite: 1]
     </td>
     <td valign="top">
-      • <b>Oracle Database</b> RDBMS[cite: 1]<br>
+      • <b>Oracle Database</b> (RDBMS)[cite: 1]<br>
       • <b>JDBC API</b> Structures[cite: 1]<br>
       • <b>SQLite</b> Engine<br>
-      • <b>Docker</b> Containers
+      • <b>Git / GitHub</b> DevOps[cite: 1]
     </td>
     <td valign="top">
       • Parallel <b>RAG</b> Pipelines[cite: 1]<br>
       • Multi-Agent Systems<br>
-      • <b>Zero-Trust</b> Systems[cite: 1]<br>
-      • <b>Dijkstra</b> Optimization[cite: 1]
+      • <b>Zero-Trust</b> Protocol Arrays[cite: 1]<br>
+      • <b>Dijkstra's</b> Routing Engine[cite: 1]
     </td>
   </tr>
 </table>
