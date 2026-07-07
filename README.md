@@ -95,34 +95,13 @@ I am a Computer Science student at COMSATS University Islamabad, Sahiwal Campus,
 
 ---
 
-## 🏆 Open Source Accomplishments & Badges
+## 🏆 Profile Badges & Core Competencies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FahadMustafa001&theme=tokyonight&no-bg=true&margin-w=15&column=5" width="100%" alt="Fahad's GitHub Trophies" />
+  <img src="https://img.shields.io/badge/Main_Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Core">
+  <img src="https://img.shields.io/badge/AI_Engine-Python_/_Groq-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="AI Frameworks">
+  <img src="https://img.shields.io/badge/Network_Design-Cisco_Zero_Trust-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Zero Trust">
 </p>
-
----
-
-## 📊 Automated Repository Performance & Coding Split
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=FahadMustafa001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahadMustafa001&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="middle" height="20px"></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadMustafa001&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
 
 ---
 
