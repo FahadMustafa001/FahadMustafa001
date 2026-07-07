@@ -17,43 +17,43 @@
 </p>
 
 ### 💻 System Engineering & Applied AI
-I am an engineering student at COMSATS University Islamabad (Sahiwal Campus)[cite: 1, 2], maintaining a **3.84 CGPA**[cite: 1, 2]. I specialize in developing robust backend infrastructures, enterprise-grade multi-agent AI logic, and secure automated network pipelines.
+I am a Computer Science engineering student at COMSATS University Islamabad, Sahiwal Campus, maintaining an exceptional academic standing with a **3.84 CGPA**. I specialize in architecting fault-tolerant backend infrastructures, engineering multi-agent production AI logic, and modeling highly secure, micro-segmented corporate network layers.
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
+## 🛠️ Deep Tech Stack & Ecosystem
 
 <table>
   <tr>
-    <td align="center" width="25%"><b>Languages</b></td>
-    <td align="center" width="25%"><b>Frameworks & Platforms</b></td>
-    <td align="center" width="25%"><b>Data & Cloud</b></td>
-    <td align="center" width="25%"><b>Architecture</b></td>
+    <td align="center" width="25%"><b>💻 Languages</b></td>
+    <td align="center" width="25%"><b>🚀 Frameworks</b></td>
+    <td align="center" width="25%"><b>📊 Data & Cloud</b></td>
+    <td align="center" width="25%"><b>🧠 Architecture</b></td>
   </tr>
   <tr>
     <td valign="top">
-      • Java (Advanced OOP)<br>
-      • C++ (High Performance)[cite: 1]<br>
-      • Python (AI Stack)[cite: 1]<br>
-      • Dart (Flutter Engine)[cite: 1]
+      • <b>Java</b> (Advanced OOP)<br>
+      • <b>C++</b> (High-Performance)[cite: 1]<br>
+      • <b>Python</b> (AI Ecosystem)[cite: 1]<br>
+      • <b>Dart</b> (Flutter Native)[cite: 1]
     </td>
     <td valign="top">
-      • Flutter Framework[cite: 1]<br>
-      • Flask (REST APIs)<br>
-      • WordPress (CMS)[cite: 1]<br>
-      • Shopify Engine[cite: 1]
+      • <b>Flutter</b> Framework[cite: 1]<br>
+      • <b>Flask</b> (Micro-services)<br>
+      • <b>WordPress</b> (Core CMS)[cite: 1]<br>
+      • <b>Shopify</b> Enterprise[cite: 1]
     </td>
     <td valign="top">
-      • Oracle Database[cite: 1]<br>
-      • JDBC Persistence[cite: 1]<br>
-      • SQLite Layer<br>
-      • Docker Containers
+      • <b>Oracle Database</b> RDBMS[cite: 1]<br>
+      • <b>JDBC API</b> Structures[cite: 1]<br>
+      • <b>SQLite</b> Engine<br>
+      • <b>Docker</b> Containers
     </td>
     <td valign="top">
-      • Parallel RAG Pipelines[cite: 1]<br>
+      • Parallel <b>RAG</b> Pipelines[cite: 1]<br>
       • Multi-Agent Systems<br>
-      • Zero-Trust Networks[cite: 1]<br>
-      • Dijkstra Optimization[cite: 1]
+      • <b>Zero-Trust</b> Systems[cite: 1]<br>
+      • <b>Dijkstra</b> Optimization[cite: 1]
     </td>
   </tr>
 </table>
