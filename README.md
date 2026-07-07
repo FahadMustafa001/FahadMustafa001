@@ -21,51 +21,93 @@ I am a Computer Science student at COMSATS University Islamabad, Sahiwal Campus,
 
 ---
 
-## 🛠️ Deep Tech Stack & Ecosystem
+## 🛠️ Tech Stack & Ecosystem
+
+### 💻 Languages & Core Engines
+<p align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+</p>
+
+### 🚀 Frameworks & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/shopify-%2396BF48.svg?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+</p>
+
+### 📊 Databases & Infrastructure Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+</p>
+
+---
+
+## 🚀 Featured Production Repositories
 
 <table>
   <tr>
-    <td align="center" width="25%"><b>💻 Languages</b></td>
-    <td align="center" width="25%"><b>🚀 Frameworks</b></td>
-    <td align="center" width="25%"><b>📊 Data & Infrastructure</b></td>
-    <td align="center" width="25%"><b>🧠 Architecture</b></td>
+    <td width="50%" valign="top">
+      <h3>🧠 AI CV Analyzer v2.3</h3>
+      <p>Enterprise-grade recruitment ecosystem driven by <b>14 concurrent AI brains</b> (13 parallel analysis agents managed via a Supervisor Meta-Agent optimization layer). Implements 18 automated REST API endpoints.</p>
+      <img src="https://img.shields.io/badge/Python-Flask-blue?style=flat-square" alt="Python Flask">
+      <img src="https://img.shields.io/badge/Groq-Llama3.3-orange?style=flat-square" alt="Groq Llama">
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Automated Zero Trust Micro-segmented Network</h3>
+      <p>Secure corporate infrastructure design modeled inside Cisco Packet Tracer. Features advanced perimeter mapping, firewalls, and strict micro-segmentation zoning via customized VLAN profiling.</p>
+      <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-Enterprise-navy?style=flat-square" alt="Cisco">
+      <img src="https://img.shields.io/badge/Security-Zero_Trust-red?style=flat-square" alt="Zero Trust">
+    </td>
   </tr>
   <tr>
-    <td valign="top">
-      • <b>Java</b> (Advanced OOP)<br>
-      • <b>C++</b> (High-Performance)<br>
-      • <b>Python</b> (Automation Stack)[cite: 1]<br>
-      • <b>Dart</b> (Mobile Architecture)[cite: 1]
+    <td width="50%" valign="top">
+      <h3>💊 Pharmacy Management System</h3>
+      <p>Robust standalone client system engineered using advanced Java OOP paradigms. Features structured modular logic integrated with transactional persistence over Oracle Database via JDBC handshakes.</p>
+      <img src="https://img.shields.io/badge/Java-Advanced_OOP-orange?style=flat-square" alt="Java OOP">
+      <img src="https://img.shields.io/badge/Oracle_DB-JDBC-red?style=flat-square" alt="Oracle DB">
     </td>
-    <td valign="top">
-      • <b>Flutter</b> Framework[cite: 1]<br>
-      • <b>Flask</b> (REST Microservices)<br>
-      • <b>WordPress</b> (Core CMS)[cite: 1]<br>
-      • <b>Shopify</b> (E-Commerce Dev)[cite: 1]
-    </td>
-    <td valign="top">
-      • <b>Oracle Database</b> (RDBMS)[cite: 1]<br>
-      • <b>JDBC API</b> Structures[cite: 1]<br>
-      • <b>SQLite</b> Engine<br>
-      • <b>Git / GitHub</b> DevOps[cite: 1]
-    </td>
-    <td valign="top">
-      • Parallel <b>RAG</b> Pipelines[cite: 1]<br>
-      • Multi-Agent Systems<br>
-      • <b>Zero-Trust</b> Protocol Arrays[cite: 1]<br>
-      • <b>Dijkstra's</b> Routing Engine[cite: 1]
+    <td width="50%" valign="top">
+      <h3>🏥 Hospital Shortest Path Routing</h3>
+      <p>High-performance native C++ graph navigation engine optimizing spatial routing metrics under minimal execution latency via a custom implementation of Dijkstra's Algorithm.</p>
+      <img src="https://img.shields.io/badge/C%2B%2B-High_Performance-blue?style=flat-square" alt="C++">
+      <img src="https://img.shields.io/badge/Algorithms-Dijkstra-green?style=flat-square" alt="Dijkstra">
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Featured Production Workspaces
+## 📊 Performance & Talent Metrics
 
-```mermaid
-graph TD
-    A[AI CV Analyzer v2.3] -->|13 Parallel Agents| B(Data Extraction & Analysis Phase)
-    B -->|Supervisor Meta-Agent| C(Unified Verdict & Executive Reporting)
-    style A fill:#1f232a,stroke:#7aa2f7,stroke-width:2px;
-    style B fill:#1f232a,stroke:#bb9af7,stroke-width:1px;
-    style C fill:#1f232a,stroke:#9ece6a,stroke-width:2px;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadFahad829&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFahad829&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFahad829&theme=tokyonight&hide_border=true" width="100%" />
+</p>
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadFahad829&theme=tokyonight&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-science.svg" height="25px">
+  <img src="https://forthebadge.com/images/badges/automated-75percent-of-the-time.svg" height="25px">
+  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" height="25px">
+</p>
+
+<p align="center">
+  <i>Deterministic execution. Clean compiling systems. Optimized architectures.</i>
+</p>
