@@ -95,13 +95,6 @@ I am a Computer Science student at COMSATS University Islamabad, Sahiwal Campus,
 
 ---
 
-## 🏆 Open Source Accomplishments & Badges
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FahadMustafa001&theme=tokyonight&no-bg=true&margin-w=15&column=5" alt="Fahad's GitHub Trophies" />
-</p>
-
----
 
 ## 📊 Automated Repository Performance & Coding Split
 
