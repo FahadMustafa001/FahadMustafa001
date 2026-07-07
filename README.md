@@ -11,8 +11,8 @@
   <a href="mailto:mustafafahhad29@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/MuhammadFahad829">
-    <img src="https://img.shields.io/github/followers/MuhammadFahad829?label=Followers&style=for-the-badge&color=1F232A" alt="Followers">
+  <a href="https://github.com/FahadMustafa001">
+    <img src="https://img.shields.io/github/followers/FahadMustafa001?label=Followers&style=for-the-badge&color=1F232A" alt="Followers">
   </a>
 </p>
 
@@ -86,19 +86,18 @@ I am a Computer Science student at COMSATS University Islamabad, Sahiwal Campus,
 ## 📊 Automated Coding Metrics & Language Split
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFahad829&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFahad829&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadMustafa001&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahadMustafa001&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MuhammadFahad829&theme=tokyonight&hide_border=true" width="100%" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FahadMustafa001&theme=tokyonight&hide_border=true" width="100%" alt="WakaTime Stats" />
 </p>
 
 ---
 
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-science.svg" height="25px">
-  <img src="https://forthebadge.com/images/badges/automated-75percent-of-the-time.svg" height="25px">
   <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" height="25px">
 </p>
 
