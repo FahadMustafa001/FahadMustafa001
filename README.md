@@ -95,31 +95,31 @@ I am a Computer Science student at COMSATS University Islamabad, Sahiwal Campus,
 
 ---
 
-## 🏆 Open Source Accomplishments & Badges
+## 🏆 GitHub Metrics & Accomplishments
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FahadMustafa001&theme=tokyonight&no-bg=true&margin-w=15&column=5" alt="Fahad's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FahadMustafa001&theme=tokyonight&margin-w=15&column=5" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 📊 Automated Coding Metrics & Language Split
+## 📊 Automated Repository Performance & Coding Split
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadMustafa001&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahadMustafa001&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FahadMustafa001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahadMustafa001&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FahadMustafa001&theme=tokyonight&hide_border=true" width="100%" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadMustafa001&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" alt="Top Languages" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-science.svg" height="25px">
-  <img src="https://forthebadge.com/images/badges/automated-75percent-of-the-time.svg" height="25px">
-  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" height="25px">
+  <img src="https://img.shields.io/badge/Built%20With-Science-brightgreen?style=for-the-badge" alt="Built With Science">
+  <img src="https://img.shields.io/badge/Automated-75%25-blue?style=for-the-badge" alt="Automated">
+  <img src="https://img.shields.io/badge/Made%20With-Markdown-orange?style=for-the-badge" alt="Made With Markdown">
 </p>
 
 <p align="center">
