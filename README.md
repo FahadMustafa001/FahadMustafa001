@@ -25,10 +25,10 @@ I am a Computer Science student at COMSATS University Islamabad, Sahiwal Campus,
 
 <table>
   <tr>
-    <td align="center" width="35%"><b>💻 Languages</b></td>
-    <td align="center" width="35%"><b>🚀 Frameworks</b></td>
-    <td align="center" width="35%"><b>📊 Data & Infra</b></td>
-    <td align="center" width="35%"><b>🧠 Architecture</b></td>
+    <td align="center" width="25%"><b>💻 Languages</b></td>
+    <td align="center" width="25%"><b>🚀 Frameworks</b></td>
+    <td align="center" width="25%"><b>📊 Data & Infra</b></td>
+    <td align="center" width="25%"><b>🧠 Architecture</b></td>
   </tr>
   <tr>
     <td valign="top">
@@ -95,6 +95,13 @@ I am a Computer Science student at COMSATS University Islamabad, Sahiwal Campus,
 
 ---
 
+## 🏆 Open Source Accomplishments & Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FahadMustafa001&theme=tokyonight&no-bg=true&margin-w=15&column=5" alt="Fahad's GitHub Trophies" />
+</p>
+
+---
 
 ## 📊 Automated Repository Performance & Coding Split
 
